@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bluebird-hi
+- 👋 Hi, I’m Luming Xu.
 - 👀 I’m interested in geospatial science.
 - 🌱 I’m currently learning urban spatial analytics.
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luming Xu.
+- 👋 Hi, I’m Luming.
 - 👀 I’m interested in geospatial science.
 - 🌱 I’m currently learning urban spatial analytics.
 
